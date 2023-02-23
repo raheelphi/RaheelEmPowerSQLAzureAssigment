@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="assigmenttest" Class="AzureSQLConnectionDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=assigmenttest.database.windows.net;Initial Catalog=assigmenttest;User ID=empoweradmin;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False" SettingsObjectName="AssigmentApp.Properties.Settings" SettingsPropertyName="assigmenttestConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.LogInfo" Member="LogInfos">
+    <Type Name="LogInfo">
+      <Column Name="LogId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="LogStatus" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LogDescription" Type="System.String" DbType="VarChar(500)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

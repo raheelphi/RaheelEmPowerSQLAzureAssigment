@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AzureSQLConnection">
+  <DataContextMoniker Name="/AzureSQLConnectionDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b1858719-1f13-487b-abc7-5be477183665" absoluteBounds="2.75, 1.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/AzureSQLConnectionDataContext/LogInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa580073-d453-4829-9d50-fafd18de515e" absoluteBounds="2.765, 2.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
