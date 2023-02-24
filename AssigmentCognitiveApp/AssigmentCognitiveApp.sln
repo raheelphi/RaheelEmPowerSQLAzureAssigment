@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssigmentCognitiveApp", "AssigmentCognitiveApp.csproj", "{131E7FDA-3A79-45E7-A921-4EB27DC982B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131E7FDA-3A79-45E7-A921-4EB27DC982B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131E7FDA-3A79-45E7-A921-4EB27DC982B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131E7FDA-3A79-45E7-A921-4EB27DC982B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131E7FDA-3A79-45E7-A921-4EB27DC982B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {555C07E3-2E2C-48FF-812F-63D01AB16828}
+	EndGlobalSection
+EndGlobal
